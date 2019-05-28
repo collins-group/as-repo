@@ -3,7 +3,9 @@
     <extensionMap>
       <mapping ext="dex" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
+      <mapping ext="db-shm" type="PLAIN_TEXT" />
       <mapping ext="mk" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
       <removed_mapping ext="so" approved="true" type="UNKNOWN" />
       <removed_mapping ext="so" approved="true" type="UNKNOWN" />
     </extensionMap>
