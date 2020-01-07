@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\app\src\main\java\com\viewphii\ussuper\measurement\measurewidget\MeasureWidget.kt [app]'" />
-    <option name="defaultScopeName" value="File '...\app\src\main\java\com\viewphii\ussuper\measurement\measurewidget\MeasureWidget.kt [app]'" />
-    <option name="SEARCH_SCOPE" value="File '...\app\src\main\java\com\viewphii\ussuper\measurement\measurewidget\MeasureWidget.kt [app]'" />
+    <option name="customScope" value="File '...\app\src\main\java\com\viewphii\ussuper\measurement\measurewidget\MeasureLineWidget.kt [app]'" />
+    <option name="defaultScopeName" value="File '...\app\src\main\java\com\viewphii\ussuper\measurement\measurewidget\MeasureLineWidget.kt [app]'" />
+    <option name="SEARCH_SCOPE" value="File '...\app\src\main\java\com\viewphii\ussuper\measurement\measurewidget\MeasureLineWidget.kt [app]'" />
   </component>
 </application>
