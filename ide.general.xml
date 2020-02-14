@@ -9,5 +9,6 @@
     <entry key="ide.debugger.inline" value="false" />
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="documentation.show.toolbar" value="true" />
+    <entry key="ide.balloon.shadow.size" value="0" />
   </component>
 </application>
