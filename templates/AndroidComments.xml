@@ -4,4 +4,26 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="todod" value="TODO: 删除" description="TODO--删除" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
+    </context>
+  </template>
+  <template name="todocg" value="TODO: 重构" description="TODO --重构" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
+    </context>
+  </template>
 </templateSet>
