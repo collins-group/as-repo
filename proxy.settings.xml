@@ -1,8 +1,8 @@
 <application>
   <component name="HttpConfigurable">
     <option name="PROXY_HOST" value="127.0.0.1" />
-    <option name="PROXY_PORT" value="1080" />
+    <option name="PROXY_PORT" value="1081" />
     <option name="USE_PAC_URL" value="true" />
-    <option name="PAC_URL" value="http://127.0.0.1:1080/pac?auth=QhKq8JZx7hn_4VHxhEko&amp;t=201911091539119939" />
+    <option name="PAC_URL" value="http://127.0.0.1:1081/pac?auth=CH816Q8Cde4kYVCvmFBI&amp;t=201906172025384047" />
   </component>
 </application>
