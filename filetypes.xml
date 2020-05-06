@@ -1,12 +1,15 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="aar" type="PLAIN_TEXT" />
       <mapping ext="dex" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
+      <mapping ext="mk" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="gardle" type="PLAIN_TEXT" />
-      <mapping ext="mk" type="PLAIN_TEXT" />
       <removed_mapping ext="so" approved="true" type="UNKNOWN" />
+      <removed_mapping ext="aar" approved="true" type="aar" />
+      <removed_mapping ext="aar" approved="true" type="aar" />
       <removed_mapping ext="so" approved="true" type="UNKNOWN" />
     </extensionMap>
   </component>
