@@ -1,0 +1,42 @@
+<application>
+  <component name="VisualizationTool">
+    <option name="state">
+      <GlobalState>
+        <option name="configurationSetName" value="CUSTOM" />
+        <option name="customConfigurationAttributes">
+          <list>
+            <CustomConfigurationAttribute>
+              <option name="apiLevel" value="29" />
+              <option name="deviceId" value="pixel" />
+              <option name="localeString" value="zh-CN" />
+              <option name="name" value="Preview" />
+              <option name="nightMode" value="NOTNIGHT" />
+              <option name="orientation" value="PORTRAIT" />
+              <option name="theme" value="ViewPhii_ThemeCompat" />
+              <option name="uiMode" value="NORMAL" />
+            </CustomConfigurationAttribute>
+            <CustomConfigurationAttribute>
+              <option name="apiLevel" value="29" />
+              <option name="deviceId" value="pixel" />
+              <option name="name" value="Preview" />
+              <option name="nightMode" value="NOTNIGHT" />
+              <option name="orientation" value="PORTRAIT" />
+              <option name="theme" value="AppBaseTheme" />
+              <option name="uiMode" value="NORMAL" />
+            </CustomConfigurationAttribute>
+            <CustomConfigurationAttribute>
+              <option name="apiLevel" value="29" />
+              <option name="deviceId" value="pixel" />
+              <option name="name" value="Preview" />
+              <option name="nightMode" value="NOTNIGHT" />
+              <option name="orientation" value="PORTRAIT" />
+              <option name="theme" value="AppBaseTheme" />
+              <option name="uiMode" value="NORMAL" />
+            </CustomConfigurationAttribute>
+          </list>
+        </option>
+        <option name="showDecoration" value="true" />
+      </GlobalState>
+    </option>
+  </component>
+</application>
