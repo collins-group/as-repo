@@ -1,0 +1,5 @@
+<application>
+  <component name="SQLAndroidSettingsGeneral">
+    <option name="backupEnable" value="false" />
+  </component>
+</application>
