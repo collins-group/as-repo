@@ -8,11 +8,11 @@
       <mapping pattern="db" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="aar" type="PLAIN_TEXT" />
-      <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
-      <mapping ext="gardle" type="PLAIN_TEXT" />
       <mapping ext="mk" type="PLAIN_TEXT" />
-      <removed_mapping ext="so" approved="true" type="UNKNOWN" />
+      <mapping ext="mockmaker" type="PLAIN_TEXT" />
+      <mapping ext="gardle" type="PLAIN_TEXT" />
+      <removed_mapping ext="so" approved="true" type="so" />
       <removed_mapping ext="aar" approved="true" type="aar" />
       <removed_mapping ext="so" approved="true" type="UNKNOWN" />
     </extensionMap>

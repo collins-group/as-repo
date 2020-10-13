@@ -4,7 +4,6 @@
   </component>
   <component name="ShowUsagesSettings">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
-    <option name="PREVIEW_USAGES_SPLITTER_PROPORTIONS" value="0.49873737" />
   </component>
   <component name="UsageViewSettings">
     <option name="IS_EXPANDED" value="true" />
@@ -13,6 +12,5 @@
     <option name="GROUP_BY_PACKAGE" value="false" />
     <option name="GROUP_BY_USAGE_TYPE" value="false" />
     <option name="IS_PREVIEW_USAGES" value="true" />
-    <option name="PREVIEW_USAGES_SPLITTER_PROPORTIONS" value="0.28156567" />
   </component>
 </application>
