@@ -1,16 +1,19 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="aar" approved="true" type="AAR" />
       <mapping ext="webp" type="Image" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="mp4" type="Native" />
-      <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping pattern="db" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="aar" type="PLAIN_TEXT" />
+      <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="gardle" type="PLAIN_TEXT" />
-      <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="mk" type="PLAIN_TEXT" />
       <removed_mapping ext="so" approved="true" type="UNKNOWN" />
+      <removed_mapping ext="aar" approved="true" type="aar" />
       <removed_mapping ext="so" approved="true" type="UNKNOWN" />
     </extensionMap>
   </component>
