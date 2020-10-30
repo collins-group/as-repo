@@ -9,6 +9,7 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CodeCleanup" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
   </action>
@@ -59,6 +60,7 @@
   <action id="EditorStartNewLineBefore">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
+  <action id="EditorToggleUseSoftWraps" />
   <action id="EditorUnindentSelection">
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
@@ -106,6 +108,9 @@
   <action id="PrevTemplateParameter" />
   <action id="PreviousTemplateVariable" />
   <action id="Print" />
+  <action id="RecentFiles">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="SearchEverywhere.NavigateToNextGroup">
@@ -120,6 +125,8 @@
   <action id="ShowExecutionPoint">
     <keyboard-shortcut first-keystroke="alt multiply" />
   </action>
+  <action id="SilentCodeCleanup" />
+  <action id="SurroundWithLiveTemplate" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -135,6 +142,10 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="SwitcherIterateItems" />
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="TypeHierarchy" />
+  <action id="Unscramble" />
   <action id="Unwrap" />
   <action id="UpdateRunningApplication" />
   <action id="ViewSource" />
