@@ -1,0 +1,6 @@
+<templateSet group="Kotlin">
+  <template name="closure" value="{$PARAM$ -&gt; $PARAM_COPY$}" description="Closure (function without name)" toReformat="true" toShortenFQNames="true">
+    <variable name="PARAM" expression="" defaultValue="&quot;x&quot;" alwaysStopAt="true" />
+    <variable name="PARAM_COPY" expression="PARAM" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>

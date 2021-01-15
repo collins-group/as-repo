@@ -1,0 +1,8 @@
+<application>
+  <component name="KotlinCodeInsightSettings">
+    <option name="addUnambiguousImportsOnTheFly" value="true" />
+  </component>
+  <component name="PhpCodeFoldingSettings">
+    <option name="COLLAPSE_FUNCTION_BODY" value="true" />
+  </component>
+</application>
